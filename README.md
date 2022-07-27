@@ -22,6 +22,12 @@
 ## Team: #34 SQUAD
 
 - [*Niloy Saha*- Leader]
+- [*Pinak Ranjan Das*]
+- [*Sudipta Mondal*]
+- [*Dipanwita Dutta*]
+- [*Meghna Gupta*]
+- [*Debashis Haldar*]
+- [*Prita Nath*]
 - [*Jit Kumar Ghosh*- Leader](https://github.com/jit48)
 - [*N Sai Shashank*](https://github.com/shashank030401)
 - [*Mayukh Bagchi*](https://github.com/mayukh-B)
