@@ -19,8 +19,9 @@
 
 ---
 
-## Team: #32 SQUAD
+## Team: #34 SQUAD
 
+- [*Niloy Saha*- Leader]
 - [*Jit Kumar Ghosh*- Leader](https://github.com/jit48)
 - [*N Sai Shashank*](https://github.com/shashank030401)
 - [*Mayukh Bagchi*](https://github.com/mayukh-B)
